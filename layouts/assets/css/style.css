@@ -1,0 +1,38 @@
+#wrapper > div.content-page > div > div > div:nth-child(2) > div:nth-child(1) > div{ 
+    background: rgba(59, 27, 27, 0.6) !important;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important;
+backdrop-filter: blur( 4px )!important;
+-webkit-backdrop-filter: blur( 4px )!important;
+border-radius: 10px!important;
+border: 1px solid rgba( 255, 255, 255, 0.18 )!important;
+cursor:pointer;
+
+}
+#wrapper > div.content-page > div > div > div:nth-child(2) > div:nth-child(2)>div{
+ background: rgba(91, 189, 104, 0.6) !important;
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important;
+backdrop-filter: blur( 4px )!important;
+-webkit-backdrop-filter: blur( 4px )!important;
+border-radius: 10px!important;
+border: 1px solid rgba( 255, 255, 255, 0.18 )!important;
+cursor:pointer;
+}
+#wrapper > div.content-page > div > div > div:nth-child(2) > div:nth-child(3)>div{
+    background: rgba(75, 88, 201, 0.6) !important;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important;
+    backdrop-filter: blur( 4px )!important;
+    -webkit-backdrop-filter: blur( 4px )!important;
+    border-radius: 10px!important;
+    border: 1px solid rgba( 255, 255, 255, 0.18 )!important;
+    cursor:pointer; 
+}
+#wrapper > div.content-page > div > div > div:nth-child(2) > div:nth-child(4)>div{
+    background: rgba(235, 131, 34, 0.6) !important;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 )!important;
+    backdrop-filter: blur( 4px )!important;
+    -webkit-backdrop-filter: blur( 4px )!important;
+    border-radius: 10px!important;
+    border: 1px solid rgba( 255, 255, 255, 0.18 )!important;
+    cursor:pointer; 
+}
+
