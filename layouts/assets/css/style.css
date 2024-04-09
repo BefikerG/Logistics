@@ -35,4 +35,54 @@ cursor:pointer;
     border: 1px solid rgba( 255, 255, 255, 0.18 )!important;
     cursor:pointer; 
 }
+.welcome1{
+    color:#0370ea;
+    font-size: 4rem;
+    font-family: "Aladin", system-ui;
+    font-weight: 400;
+    font-style: normal;      
+}
+.welcome2{
+        font-size:2rem;
+        font-family: "Aladin", system-ui;
+        font-weight: 400;
+        font-style: normal;     
+}
+/*styles for login page*/
+
+#video-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    object-fit: cover;
+}
+body > div > div > div.row.justify-content-center > div > div > div{
+    width:100%;
+    color: black;
+}
+body > div > div > div.row.justify-content-center > div > div > div > div > div{
+    align-items: center !important;
+   
+}
+body > div > div > div > div > div > div > div > div.auth-brand.p-4 > a.logo-light > img{
+    align-content: center !important;
+    justify-content: center !important;
+   
+   
+}
+/*for the logo in the login page to center it */
+.account-pages{display:flex!important;align-items:center!important;justify-content:center!important;min-height:100vh!important}.auth-brand{text-align:center!important}.auth-brand img{max-height:100px!important}
+/* CSS to add glass effect to the card */
+.card {
+    width: 100% !important;
+    border-radius: 10px !important;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(10px) brightness(120%) contrast(90%);
+    background-color: rgba(255, 255, 255, 0.15); /* Adjust opacity as needed */
+}
+
+
 
